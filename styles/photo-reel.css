@@ -1,0 +1,21 @@
+.photo-fade img{
+    
+    width: 350px;
+    height: 350px;
+}
+
+.photo-reel{
+    width: 60%;
+    margin: auto;
+    
+    overflow: hidden;
+    padding-top: 30%;
+
+}
+
+.photo-fade{
+    display: flex;
+   
+    width: 350px;
+    height: 350px;
+}
